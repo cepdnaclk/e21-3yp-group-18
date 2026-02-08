@@ -1,1 +1,1 @@
-ESP32-Based Tele-Operated 4x4 Robotic Car.
+The project aims to create a high-immersion, remote-controlled 4x4 vehicle that mimics a real-life driving experience for a user operating it via a laptop. It bridges the gap between a simple RC car and a professional tele-operation system by integrating live video, real-time sensor telemetry, and a movable camera arm.
