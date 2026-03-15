@@ -12,7 +12,7 @@ title: Paultry Farm Monitoring System
 ---
 
 ## Team
-- e21130, Fazly Foumy, [email](mailto:member1@email.com)
+- e21130, Fazly Foumy, [email](mailto:e21130@eng.pdn.ac.lk)
 - e21335, Rayid Husain, [email](mailto:member2@email.com)
 - e21336, Rinos Ramlan, [email](mailto:member3@email.com)
 - e21342, Saabith Munab, [email](mailto:member4@email.com)
