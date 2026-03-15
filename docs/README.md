@@ -18,7 +18,10 @@ title: Paultry Farm Monitoring System
 - e21342, Saabith Munab, [e21342@eng.pdn.ac.lk](mailto:member4@email.com)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
-<!-- ![System Overview](./images/system_overview.png) -->
+
+<!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/) -->
+
+<!-- ![Sample Image](./images/sample.png) -->
 
 
 
