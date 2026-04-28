@@ -1,1 +1,12 @@
-backend
+# Backend (Spring Boot)
+
+## Features
+- MQTT subscriber
+- Data processing
+- REST API
+- MySQL database
+
+## API Endpoints
+
+GET /api/sensor-data/latest
+GET /api/sensor-data/lpg-alerts
